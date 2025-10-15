@@ -1,12 +1,142 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 🌟 **MINEBAND** 🌟
 
-**Here are some ideas to get you started:**
+<div align="center">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ⚔️ ЛУЧШИЙ MINECRAFT ПРОЕКТ ⚔️
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎮_ИГРАЙ_СЕЙЧАС-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Играть сейчас">
+</div>
+
+<div align="center">
+
+</div>
+
+</div>
+
+## 🌟 **О проекте**
+
+<div align="center">
+
+**MineBand** — это уникальный Minecraft сервер, где каждый игрок может найти что-то по душе! 🚀
+
+Мы разрабатываем собственные плагины и создаем авторские карты, чтобы предложить вам незабываемые приключения в различных игровых режимах.
+
+</div>
+
+
+## 🎯 **Наши режимы**
+
+<div align="center">
+
+| Режим | Описание | Статус |
+|-------|----------|---------|
+| ⚔️ **SquidGame** | Режим по мотивам сериала "Игра в кальмара" | 🔒 Приватный |
+
+</div>
+
+## 🚀 **Особенности сервера**
+
+<div align="center">
+
+
+| Особенность | Преимущество |
+|-------------|-------------|
+| 🔧 **Кастомные плагины** | Разработаны специально для наших режимов |
+| ⚡ **Высокая производительность** | Оптимизированные сервера для плавной игры |
+| 🔄 **Регулярные обновления** | Всегда актуальные версии и новые функции |
+| 🛡️ **Стабильность** | Работаем 24/7 без лагов и вылетов |
+
+</div>
+
+## 🤝 **Как играть**
+
+Мы всегда рады новым игрокам! Присоединяйтесь к нашему серверу и наслаждайтесь уникальными режимами.
+
+### 📋 Требования
+
+**Minecraft Java Edition 1.21+**
+
+**Стабильное интернет-соединение**
+
+**Хорошее настроение для игры!**
+
+### 🎮 Как начать
+
+Запустите Minecraft
+
+Добавьте сервер в multiplayer
+
+Присоединяйтесь и наслаждайтесь игрой!
+
+### 💡 Советы новичкам
+
+Начните с изучения правил сервера
+
+Посетите наш Discord для общения
+
+Участвуйте в событиях и конкурсах
+
+## 📞 **Контакты**
+
+<div align="center">
+
+| Контакт | Ссылка | Описание |
+|---------|--------|----------|
+| 📧 **Email** | [contact@mineband.ru](mailto:contact@mineband.ru) | Техническая поддержка |
+| 🌐 **Сайт** | [mineband.ru](https://mineband.ru) | Официальный сайт сервера |
+| 💬 **Discord** | [Присоединиться](https://discord.gg/mineband) | Игровое сообщество |
+
+</div>
+
+## 🙏 **Поддержи сервер**
+
+<div align="center">
+
+### 🎮 **Нравится играть у нас?**
+
+Помоги MineBand стать ещё лучше! Твоя поддержка очень важна для нас.
+
+</div>
+
+<div align="center">
+
+### ⭐ **Способы поддержки:**
+
+| Способ | Описание |
+|--------|----------|
+| **⭐ GitHub** | Поставь звезду репозиторию - помоги другим игрокам нас найти |
+| **🐦 Соцсети** | Поделись сервером с друзьями в Discord, VK, Telegram |
+| **💰 Донат** | Поддержи развитие сервера материально |
+
+</div>
+
+<div align="center">
+
+### 💰 **Куда идут твои донаты:**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Новые_режимы-🚀-green?style=flat-square" alt="Новые режимы">
+  <img src="https://img.shields.io/badge/Производительность-⚡-blue?style=flat-square" alt="Производительность">
+  <img src="https://img.shields.io/badge/События_и_конкурсы-🎉-yellow?style=flat-square" alt="События">
+  <img src="https://img.shields.io/badge/Сообщество-👥-red?style=flat-square" alt="Сообщество">
+</div>
+
+**Твои донаты помогают нам развиваться и создавать лучший игровой опыт!**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ **Спасибо за игру с MineBand!** ⚔️
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Сделано%20с-❤️-red?style=for-the-badge" alt="Сделано с любовью">
+  <p><sub>© 2024 MineBand. Ждем тебя на сервере!</sub></p>
+</div>
+
+</div>
